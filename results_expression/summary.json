@@ -1,0 +1,64 @@
+{
+ "k=1,memory=2": {
+  "solved": 1.0,
+  "within_k_edits": 1.0,
+  "mean_examined": 24.34
+ },
+ "k=1,memory=8": {
+  "solved": 1.0,
+  "within_k_edits": 1.0,
+  "mean_examined": 19.93
+ },
+ "k=1,memory=32": {
+  "solved": 1.0,
+  "within_k_edits": 1.0,
+  "mean_examined": 19.61
+ },
+ "k=1,memory=128": {
+  "solved": 1.0,
+  "within_k_edits": 1.0,
+  "mean_examined": 24.27
+ },
+ "k=2,memory=2": {
+  "solved": 0.94,
+  "within_k_edits": 0.905,
+  "mean_examined": 65.025
+ },
+ "k=2,memory=8": {
+  "solved": 0.995,
+  "within_k_edits": 0.98,
+  "mean_examined": 101.34
+ },
+ "k=2,memory=32": {
+  "solved": 1.0,
+  "within_k_edits": 1.0,
+  "mean_examined": 218.115
+ },
+ "k=2,memory=128": {
+  "solved": 1.0,
+  "within_k_edits": 1.0,
+  "mean_examined": 254.33
+ },
+ "k=3,memory=2": {
+  "solved": 0.905,
+  "within_k_edits": 0.89,
+  "mean_examined": 84.065
+ },
+ "k=3,memory=8": {
+  "solved": 0.965,
+  "within_k_edits": 0.93,
+  "mean_examined": 204.405
+ },
+ "k=3,memory=32": {
+  "solved": 1.0,
+  "within_k_edits": 0.985,
+  "mean_examined": 418.325
+ },
+ "k=3,memory=128": {
+  "solved": 1.0,
+  "within_k_edits": 1.0,
+  "mean_examined": 694.36
+ },
+ "detail_bytes": 3303,
+ "detail_lines_dropped": 0
+}

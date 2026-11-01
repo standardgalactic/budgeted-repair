@@ -2,9 +2,11 @@
 
 [What Memory Cannot Supply: Budgeted Repair and Convention Inheritance in Small Systems](https://standardgalactic.github.io/budgeted-repair/budgeted-repair.pdf)
 
+* [Why Scaling Memory Fails System Repair](https://standardgalactic.github.io/budgeted-repair/) — *Audio Overview*
+
 A set of small experiments on systems that repair themselves or settle on shared conventions under fixed budgets. Every experiment is plain Python with no model downloads and no GPU. Each one bounds its retained state and caps what a single run may write to disk, so a full run leaves tens of kilobytes. Two qualifications apply to those claims. In the repair scripts the beam width bounds the number of search candidates retained between rounds, which makes it the search-retention budget, but a round also generates all successors of the beam before pruning them, and a visited-state set grows until it reaches fifty times the beam width and is then cleared. Total working state therefore scales with the beam width without being equal to it, and no memory measurement is taken. Likewise the byte ceiling applies to the detail and transcript files of one run. Summary files are small and uncapped, and repeated runs into new folders accumulate without limit.
 
-The accompanying essay, `budgeted_repair_essay.tex`, reports the experiments with tables, definitions and a reproducibility section that lists script digests and seed schedules.
+The accompanying essay, `budgeted-repair.tex` (compiled as `budgeted-repair.pdf`), reports the experiments with tables, definitions and a reproducibility section that gives the commit, commands and seed schedules.
 
 ## Repair under a search-retention budget
 
