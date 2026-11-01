@@ -1,0 +1,40 @@
+--- selected run: symbols 12, history 8 ---
+epoch 0 turn 0: meaning 11 named pi, heard 6, repair
+epoch 0 turn 1: meaning 5 named ki, heard 5, ok
+epoch 0 turn 2: meaning 6 named ma, heard 9, repair
+epoch 0 turn 3: meaning 8 named ta, heard 3, repair
+epoch 0 turn 4: meaning 9 named pi, heard 11, repair
+epoch 0 turn 5: meaning 9 named pi, heard 1, repair
+epoch 0 turn 6: meaning 3 named ru, heard 9, repair
+epoch 0 turn 7: meaning 1 named lu, heard 3, repair
+epoch 0 turn 8: meaning 10 named ma, heard 5, repair
+epoch 0 turn 9: meaning 3 named ki, heard 5, repair
+epoch 0: success 0.36 ambiguity 0.42 retention n/a
+turnover: 2 agents replaced
+epoch 1: success 0.59 ambiguity 0.25 retention 0.75
+turnover: 2 agents replaced
+epoch 2: success 0.70 ambiguity 0.33 retention 0.75
+turnover: 2 agents replaced
+epoch 3: success 0.82 ambiguity 0.17 retention 0.92
+turnover: 2 agents replaced
+epoch 4: success 0.90 ambiguity 0.17 retention 1.00
+turnover: 2 agents replaced
+epoch 5: success 0.89 ambiguity 0.17 retention 1.00
+turnover: 2 agents replaced
+epoch 6: success 0.89 ambiguity 0.17 retention 1.00
+turnover: 2 agents replaced
+epoch 7: success 0.87 ambiguity 0.17 retention 1.00
+turnover: 2 agents replaced
+epoch 8: success 0.84 ambiguity 0.17 retention 1.00
+turnover: 2 agents replaced
+epoch 9: success 0.87 ambiguity 0.17 retention 1.00
+turnover: 2 agents replaced
+epoch 10: success 0.87 ambiguity 0.17 retention 1.00
+turnover: 2 agents replaced
+epoch 11: success 0.85 ambiguity 0.17 retention 1.00
+turnover: 2 agents replaced
+epoch 12: success 0.86 ambiguity 0.17 retention 1.00
+turnover: 2 agents replaced
+epoch 13: success 0.83 ambiguity 0.17 retention 1.00
+turnover: 2 agents replaced
+epoch 14: success 0.87 ambiguity 0.17 retention 1.00

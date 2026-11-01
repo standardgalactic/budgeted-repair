@@ -1,0 +1,49 @@
+{
+ "symbols=6,history=0": {
+  "success": 0.463,
+  "ambiguity": 0.858,
+  "retention": 0.988
+ },
+ "symbols=6,history=8": {
+  "success": 0.453,
+  "ambiguity": 0.852,
+  "retention": 0.992
+ },
+ "symbols=6,history=32": {
+  "success": 0.448,
+  "ambiguity": 0.848,
+  "retention": 0.987
+ },
+ "symbols=12,history=0": {
+  "success": 0.745,
+  "ambiguity": 0.421,
+  "retention": 0.993
+ },
+ "symbols=12,history=8": {
+  "success": 0.768,
+  "ambiguity": 0.376,
+  "retention": 0.993
+ },
+ "symbols=12,history=32": {
+  "success": 0.77,
+  "ambiguity": 0.375,
+  "retention": 0.993
+ },
+ "symbols=24,history=0": {
+  "success": 0.908,
+  "ambiguity": 0.101,
+  "retention": 0.994
+ },
+ "symbols=24,history=8": {
+  "success": 0.916,
+  "ambiguity": 0.089,
+  "retention": 0.996
+ },
+ "symbols=24,history=32": {
+  "success": 0.917,
+  "ambiguity": 0.087,
+  "retention": 0.994
+ },
+ "transcript_bytes": 1739,
+ "transcript_lines_dropped": 0
+}

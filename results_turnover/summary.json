@@ -1,0 +1,56 @@
+{
+ "turnover=0.5,no_history": {
+  "success_end": 0.564,
+  "success_start": 0.228,
+  "ambiguity": 0.45,
+  "retention": 0.844
+ },
+ "turnover=0.5,own_history": {
+  "success_end": 0.537,
+  "success_start": 0.222,
+  "ambiguity": 0.415,
+  "retention": 0.85
+ },
+ "turnover=0.5,inherited_history": {
+  "success_end": 0.487,
+  "success_start": 0.273,
+  "ambiguity": 0.435,
+  "retention": 0.782
+ },
+ "turnover=0.8,no_history": {
+  "success_end": 0.324,
+  "success_start": 0.123,
+  "ambiguity": 0.507,
+  "retention": 0.256
+ },
+ "turnover=0.8,own_history": {
+  "success_end": 0.325,
+  "success_start": 0.119,
+  "ambiguity": 0.508,
+  "retention": 0.258
+ },
+ "turnover=0.8,inherited_history": {
+  "success_end": 0.304,
+  "success_start": 0.146,
+  "ambiguity": 0.531,
+  "retention": 0.247
+ },
+ "turnover=1.0,no_history": {
+  "success_end": 0.346,
+  "success_start": 0.118,
+  "ambiguity": 0.509,
+  "retention": 0.091
+ },
+ "turnover=1.0,own_history": {
+  "success_end": 0.335,
+  "success_start": 0.119,
+  "ambiguity": 0.498,
+  "retention": 0.081
+ },
+ "turnover=1.0,inherited_history": {
+  "success_end": 0.327,
+  "success_start": 0.11,
+  "ambiguity": 0.53,
+  "retention": 0.071
+ }
+}

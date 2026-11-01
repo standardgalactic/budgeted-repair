@@ -1,0 +1,88 @@
+{
+ "k=1,memory=2": {
+  "visible_ok": 1.0,
+  "correct_all_trials": 0.96,
+  "correct_given_visible": 0.96,
+  "within_k_edits": 1.0,
+  "mean_examined": 28.56
+ },
+ "k=1,memory=8": {
+  "visible_ok": 1.0,
+  "correct_all_trials": 0.95,
+  "correct_given_visible": 0.95,
+  "within_k_edits": 1.0,
+  "mean_examined": 30.24
+ },
+ "k=1,memory=32": {
+  "visible_ok": 1.0,
+  "correct_all_trials": 0.94,
+  "correct_given_visible": 0.94,
+  "within_k_edits": 1.0,
+  "mean_examined": 26.04
+ },
+ "k=1,memory=128": {
+  "visible_ok": 1.0,
+  "correct_all_trials": 0.96,
+  "correct_given_visible": 0.96,
+  "within_k_edits": 1.0,
+  "mean_examined": 31.92
+ },
+ "k=2,memory=2": {
+  "visible_ok": 0.99,
+  "correct_all_trials": 0.86,
+  "correct_given_visible": 0.8686868686868687,
+  "within_k_edits": 0.99,
+  "mean_examined": 54.87
+ },
+ "k=2,memory=8": {
+  "visible_ok": 1.0,
+  "correct_all_trials": 0.94,
+  "correct_given_visible": 0.94,
+  "within_k_edits": 0.99,
+  "mean_examined": 85.45
+ },
+ "k=2,memory=32": {
+  "visible_ok": 1.0,
+  "correct_all_trials": 0.92,
+  "correct_given_visible": 0.92,
+  "within_k_edits": 0.99,
+  "mean_examined": 259.58
+ },
+ "k=2,memory=128": {
+  "visible_ok": 1.0,
+  "correct_all_trials": 0.91,
+  "correct_given_visible": 0.91,
+  "within_k_edits": 1.0,
+  "mean_examined": 380.6
+ },
+ "k=3,memory=2": {
+  "visible_ok": 0.95,
+  "correct_all_trials": 0.81,
+  "correct_given_visible": 0.8526315789473684,
+  "within_k_edits": 0.95,
+  "mean_examined": 133.94
+ },
+ "k=3,memory=8": {
+  "visible_ok": 0.98,
+  "correct_all_trials": 0.79,
+  "correct_given_visible": 0.8061224489795918,
+  "within_k_edits": 0.97,
+  "mean_examined": 277.32
+ },
+ "k=3,memory=32": {
+  "visible_ok": 1.0,
+  "correct_all_trials": 0.88,
+  "correct_given_visible": 0.88,
+  "within_k_edits": 1.0,
+  "mean_examined": 489.63
+ },
+ "k=3,memory=128": {
+  "visible_ok": 1.0,
+  "correct_all_trials": 0.89,
+  "correct_given_visible": 0.89,
+  "within_k_edits": 1.0,
+  "mean_examined": 730.04
+ },
+ "detail_bytes": 7183,
+ "detail_lines_dropped": 0
+}
